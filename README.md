@@ -1,8 +1,8 @@
 ## Hello there 
 I'm Anne 🧜‍♀️ a little creativ Nerd from the north of germany.
 
-💻 I’m currently  becoming an awesome Fullstack Developer @Supercode
-💻 I’m currently learning React and TypeScript
+💻 I’m currently becoming an awesome Fullstack Developer @Supercode
+➰and learning React and TypeScript
 
 
 # 💻 Tech Stack:
