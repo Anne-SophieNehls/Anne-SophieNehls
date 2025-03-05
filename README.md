@@ -2,7 +2,7 @@
 I'm Anne 🧜‍♀️ a little creativ Nerd from the north of germany.
 
 💻 I’m an Alumni from the awesome Fullstack Developer Bootcamp by @Supercode
-➰and learning React and TypeScript
+➰and learning React and UX/UI Design with some free Content or Udumi courses
 
 
 # 💻 Tech Stack:
